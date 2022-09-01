@@ -9,6 +9,17 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiorscosta&layout=compact&langs_count=16&theme=algolia" />
     </a>
 </div>
+
+<div><br/>
+    <img alt="C# Logo" height="60" width="50" src="./icons/csharp-original.svg" />
+    <img alt="Dart Logo" height="60" width="50" src="./icons/dart-original.svg" />
+    <img alt="Flutter Logo" height="60" width="50" src="./icons/flutter-original.svg" />
+    <img alt="JS Logo" height="60" width="50" src="./icons/javascript-original.svg" />
+    <img alt="Node Logo" height="60" width="50" src="./icons/nodejs-original-wordmark.svg" />
+    <img alt="Docker Logo" height="60" width="50" src="./icons/docker-original.svg" />
+    <img alt=".Net Logo" height="60" width="50" src="./icons/dot-net-original.svg" />
+    <img alt=".Net Core Logo" height="60" width="50" src="./icons/dotnetcore-original.svg" />
+</div>
 <!--
 **celiorscosta/celiorscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
