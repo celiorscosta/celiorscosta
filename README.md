@@ -1,4 +1,21 @@
-### Ola, eu sou o Célio Costa 👋
+# Ola, eu sou o Célio Costa 👋
+
+## Introdução Sobre Mim 🧭
+- 👨‍👩‍👧 Sou casado com a Marcia e pai da Nicole
+- 🧙 Trabalho com desenvolvimento de sistemas a 16 anos
+- 🔭 Atualmente trabalho com desenvolvimentos em:
+    - ✔  **.Net Core**
+    - ✔  **Xamarin.Forms**
+    - ✔  **Angular**
+    - ✔  **Back-end em C#**
+    - ✔  **Flutter**
+- 👨‍🎓 Estou estudando:
+    - 📚 Java Script
+    - 📚 Node
+    - 📚 Docker
+    - 📚 Dart
+
+##
 
 ## Estatísticas 📑
 <div>
@@ -24,17 +41,11 @@
     <img alt="Visualstudio Logo" height="60" width="50" src="./icons/visualstudio-plain.svg" />         
     <img alt="Docker Logo" height="60" width="50" src="./icons/docker-original.svg" />
 </div>
+
+![Snake animation](https://github.com/Volaxy/Volaxy/blob/output/github-contribution-grid-snake.svg)
 <!--
 **celiorscosta/celiorscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
