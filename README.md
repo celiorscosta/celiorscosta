@@ -9,6 +9,7 @@
     - ✔  **Angular**
     - ✔  **Back-end em C#**
     - ✔  **Flutter**
+    - ✔  **Levantamento de Requisitos e Documentação**
 - 👨‍🎓 Estou estudando:
     - 📚 Java Script
     - 📚 Node
