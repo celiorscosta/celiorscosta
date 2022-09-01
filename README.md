@@ -15,7 +15,19 @@
     - 👨‍🎓 Node
     - 👨‍🎓 Docker
     - 👨‍🎓 Dart
-
+- 👨‍🎓 Outros assuntos que estudo:
+    - 👓Arquitetura de Software e seus Principios (SOLID)
+    - 👓Ingles
+- 👨‍🎓 Livros Favoritos:
+    - 📚 O Mitico Homem-Mês - Frederick P. Brooks JR.
+    - 📚 The Clean Coder - Robert C. Martin
+    - 📚 Arquitetura Limpa - Robert C. Martin
+    - 📚 Código Limpo - Robert C. Martin
+    - 📚 Refatoração -Martin Fowler
+    - 📚 Extreme Programming Explained: Embrace Change - Kent Beck & Cynthia Andres
+    - 📚 TDD Desenvolvimento Guiado por Testes - Kent Beck
+    - 📚 Test-Driven Development: Teste E Design No Mundo Real Com .Net - Mauricio Aniche
+    - 🧙‍♂️ Todos os Livros do Tolkien
 ##
 
 ## Estatísticas 📑
