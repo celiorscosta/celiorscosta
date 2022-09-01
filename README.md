@@ -1,5 +1,14 @@
-### Hi there 👋
+### Ola, eu sou o Célio Costa 👋
 
+## Estatísticas 📑
+<div>
+    <a href="https://github.com/celiorscosta">
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=celiorscosta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiorscosta&layout=compact&langs_count=16&theme=algolia" />
+    </a>
+</div>
 <!--
 **celiorscosta/celiorscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
