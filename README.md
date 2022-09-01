@@ -10,15 +10,19 @@
     </a>
 </div>
 
-<div><br/>
-    <img alt="C# Logo" height="60" width="50" src="./icons/csharp-original.svg" />
+<div><br/>    
+    <img alt=".Net Core Logo" height="60" width="50" src="./icons/dotnetcore-original.svg" />
+    <img alt=".Net Logo" height="60" width="50" src="./icons/dot-net-plain-wordmark.svg" />
+    <img alt="C# Logo" height="60" width="50" src="./icons/csharp-original.svg" /> 
+    <img alt="Xamarin Logo" height="60" width="50" src="./icons/xamarin-original.svg" /> 
     <img alt="Dart Logo" height="60" width="50" src="./icons/dart-original.svg" />
     <img alt="Flutter Logo" height="60" width="50" src="./icons/flutter-original.svg" />
     <img alt="JS Logo" height="60" width="50" src="./icons/javascript-original.svg" />
-    <img alt="Node Logo" height="60" width="50" src="./icons/nodejs-original-wordmark.svg" />
+    <img alt="Node Logo" height="60" width="50" src="./icons/nodejs-plain-wordmark.svg" />  
+    <img alt="Typescript Logo" height="60" width="50" src="./icons/typescript-original.svg" />    
+    <img alt="Sqlserver Logo" height="60" width="50" src="./icons/microsoftsqlserver-plain.svg" />  
+    <img alt="Visualstudio Logo" height="60" width="50" src="./icons/visualstudio-plain.svg" />         
     <img alt="Docker Logo" height="60" width="50" src="./icons/docker-original.svg" />
-    <img alt=".Net Logo" height="60" width="50" src="./icons/dot-net-original.svg" />
-    <img alt=".Net Core Logo" height="60" width="50" src="./icons/dotnetcore-original.svg" />
 </div>
 <!--
 **celiorscosta/celiorscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
