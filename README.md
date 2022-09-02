@@ -11,7 +11,7 @@
     - ✔  **Flutter**
     - ✔  **Levantamento de Requisitos e Documentação**
 - 📑 Tecnologias que estou estudando:
-    - 👨‍🎓 Java Script - [Certificado Alura](https://cursos.alura.com.br/user/celiorscosta/degree-js-backend-210587/certificate)
+    - 👨‍🎓 Java Script - [Certificado Alura](https://cursos.alura.com.br/degree/certificate/0e9cda45-7db6-4cf3-a113-f614b605da15)
     - 👨‍🎓 Node
     - 👨‍🎓 Docker
     - 👨‍🎓 Dart
