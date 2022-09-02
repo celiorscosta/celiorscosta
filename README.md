@@ -10,14 +10,14 @@
     - ✔  **Back-end em C#**
     - ✔  **Flutter**
     - ✔  **Levantamento de Requisitos e Documentação**
-- 📓 Tecnologias que estou estudando:
+- 📑 Tecnologias que estou estudando:
     - 👨‍🎓 Java Script - [Certificado Alura](https://cursos.alura.com.br/user/celiorscosta/degree-js-backend-210587/certificate)
     - 👨‍🎓 Node
     - 👨‍🎓 Docker
     - 👨‍🎓 Dart
 - 👨‍🎓 Outros assuntos que estudo:
-    - 👓Arquitetura de Software e seus Principios (SOLID)
-    - 👓Ingles
+    - 📑Arquitetura de Software e seus Principios (SOLID)
+    - 📑Ingles
 - 👨‍🎓 Livros Favoritos:
     - 📚 O Mitico Homem-Mês - Frederick P. Brooks JR.
     - 📚 The Clean Coder - Robert C. Martin
