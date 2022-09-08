@@ -13,7 +13,7 @@
 - 📑 Tecnologias que estou estudando:
     - 👨‍🎓 Java Script - [Certificado Alura](https://cursos.alura.com.br/degree/certificate/0e9cda45-7db6-4cf3-a113-f614b605da15)
     - 👨‍🎓 Node
-    - 👨‍🎓 Docker
+    - 👨‍🎓 Docker - [Certificado Alura](https://cursos.alura.com.br/certificate/40b78288-bc3e-4e50-8e4f-83d405bf3cbd)
     - 👨‍🎓 Dart
 - 👨‍🎓 Outros assuntos que estudo:
     - 📑Arquitetura de Software e seus Principios (SOLID)
