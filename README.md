@@ -12,7 +12,7 @@
     - ✔  **Levantamento de Requisitos e Documentação**
 - 📑 Tecnologias que estou estudando:
     - 👨‍🎓 Java Script - [Certificado Alura](https://cursos.alura.com.br/degree/certificate/0e9cda45-7db6-4cf3-a113-f614b605da15)
-    - 👨‍🎓 Node
+    - 👨‍🎓 Node - [Certificado Alura](https://cursos.alura.com.br/certificate/facca806-240b-47df-b8ca-ffde56c882b8)
     - 👨‍🎓 Docker - [Certificado Alura](https://cursos.alura.com.br/certificate/40b78288-bc3e-4e50-8e4f-83d405bf3cbd)
     - 👨‍🎓 Dart
 - 👨‍🎓 Outros assuntos que estudo:
