@@ -13,7 +13,7 @@
 - 📑 Tecnologias que estou estudando:
     - 👨‍🎓 Java Script - [Certificado Alura](https://cursos.alura.com.br/degree/certificate/0e9cda45-7db6-4cf3-a113-f614b605da15)
     - 👨‍🎓 Node - [Certificado Alura](https://cursos.alura.com.br/certificate/facca806-240b-47df-b8ca-ffde56c882b8)
-    - 👨‍🎓 Vue - [Certificado Alura](https://cursos.alura.com.br/certificate/4b08f710-af3a-4f66-a066-9cf4f7fb77bd)
+    - 👨‍🎓 Vue - [Certificado 1](https://cursos.alura.com.br/certificate/4b08f710-af3a-4f66-a066-9cf4f7fb77bd), [Certificado 2](https://cursos.alura.com.br/certificate/1035e1c6-5335-4c72-904e-5e7b9d96b203)
     - 👨‍🎓 Docker - [Certificado Alura](https://cursos.alura.com.br/certificate/40b78288-bc3e-4e50-8e4f-83d405bf3cbd)
     - 👨‍🎓 Dart
 - 👨‍🎓 Outros assuntos que estudo:
