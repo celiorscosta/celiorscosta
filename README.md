@@ -2,7 +2,7 @@
 
 ## Introdução Sobre Mim 🧭
 - 👨‍👩‍👧 Sou casado com a Marcia e pai da Nicole
-- 🧙 Trabalho com desenvolvimento de sistemas a 16 anos
+- 🧙 Trabalho com desenvolvimento de sistemas desde 2006
 - 🔭 Atualmente trabalho com desenvolvimentos em:
     - ✔  **.Net Core**
     - ✔  **Xamarin.Forms**
