@@ -8,13 +8,13 @@
     - ✔  **Typescript**
     - ✔  **Vue.js**
     - ✔  **Postgres**
+    - ✔  **Levantamento de Requisitos e Documentação**
 - 🔭 Já trabalhei com desenvolvimentos em:
     - ✔  **.Net Core**
     - ✔  **Xamarin.Forms**
     - ✔  **Angular**
     - ✔  **Back-end em C#**
     - ✔  **Flutter**
-    - ✔  **Levantamento de Requisitos e Documentação**
 - 📑 Tecnologias que estou estudando:
     - 👨‍🎓 Java Script - [Certificado Formação Alura](https://cursos.alura.com.br/degree/certificate/0e9cda45-7db6-4cf3-a113-f614b605da15)
     - 👨‍🎓 Node - [Certificado Alura](https://cursos.alura.com.br/certificate/facca806-240b-47df-b8ca-ffde56c882b8)
