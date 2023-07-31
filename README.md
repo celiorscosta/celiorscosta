@@ -38,17 +38,13 @@
     - 🧙‍♂️ Todos os Livros do Tolkien
 
 ## Estatísticas 📑
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=celiorscosta&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=celiorscosta&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=celiorscosta&show_icons=true" />
-</picture>
+<a href="https://github.com/celiorscosta/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=celiorscosta&show_icons=true&theme=gruvbox)" />
+</a>
+<a href="https://github.com/celiorscosta/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celiorscosta&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <div><br/>    
     <img alt=".Net Core Logo" height="60" width="50" src="./icons/dotnetcore-original.svg" />
