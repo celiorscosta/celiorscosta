@@ -39,12 +39,11 @@
 
 ## Estatísticas 📑
 <a href="https://github.com/celiorscosta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=celiorscosta&show_icons=true&theme=gruvbox)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=celiorscosta&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/celiorscosta/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celiorscosta&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celiorscosta&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
 </a>
-
 
 <div><br/>    
     <img alt=".Net Core Logo" height="60" width="50" src="./icons/dotnetcore-original.svg" />
