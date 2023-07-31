@@ -7,6 +7,7 @@
     - ✔  **Node**
     - ✔  **Typescript**
     - ✔  **Vue.js**
+    - ✔  **Postgres**
     - ✔  **.Net Core**
     - ✔  **Xamarin.Forms**
     - ✔  **Angular**
