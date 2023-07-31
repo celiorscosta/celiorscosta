@@ -41,7 +41,7 @@
 <div>
     <a href="https://github.com/celiorscosta ">
         <img height="195em"
-            src="https://github-readme-stats.vercel.app/api?username=celiorscosta &show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats.celiorscosta.app/api?username=celiorscosta &show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
         <img height="195em" align="right"
             src="https://github-readme-stats.celiorscosta.app/api/top-langs/?username=celiorscosta&layout=compact&langs_count=16&theme=jolly" />
     </a>
