@@ -8,6 +8,7 @@
     - ✔  **Typescript**
     - ✔  **Vue.js**
     - ✔  **Postgres**
+- 🔭 Já trabalhei com desenvolvimentos em:
     - ✔  **.Net Core**
     - ✔  **Xamarin.Forms**
     - ✔  **Angular**
