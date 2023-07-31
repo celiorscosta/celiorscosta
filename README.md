@@ -27,9 +27,9 @@
     - 📚 Refatoração -Martin Fowler
     - 📚 Trabalho Eficaz com Código Legado - Michael C. Feathers
     - 📚 The Art of Unit Testing: With Examples in C# - Roy Osherove
-    - 📚 Extreme Programming Explained: Embrace Change - Kent Beck & Cynthia Andres
     - 📚 TDD Desenvolvimento Guiado por Testes - Kent Beck
     - 📚 Test-Driven Development: Teste E Design No Mundo Real Com .Net - Mauricio Aniche
+    - 📚 Extreme Programming Explained: Embrace Change - Kent Beck & Cynthia Andres
     - 🧙‍♂️ Todos os Livros do Tolkien
 
 <div><br/>    
