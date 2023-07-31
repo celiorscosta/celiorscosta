@@ -37,6 +37,16 @@
     - 📚 Extreme Programming Explained: Embrace Change - Kent Beck & Cynthia Andres
     - 🧙‍♂️ Todos os Livros do Tolkien
 
+## Estatísticas 📑
+<div>
+    <a href="https://github.com/celiorscosta ">
+        <img height="195em"
+            src="https://github-readme-stats.vercel.app/api?username=celiorscosta &show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
+        <img height="195em" align="right"
+            src="https://github-readme-stats.celiorscosta.app/api/top-langs/?username=celiorscosta&layout=compact&langs_count=16&theme=jolly" />
+    </a>
+</div>
+
 <div><br/>    
     <img alt=".Net Core Logo" height="60" width="50" src="./icons/dotnetcore-original.svg" />
     <img alt=".Net Logo" height="60" width="50" src="./icons/dot-net-plain-wordmark.svg" />
