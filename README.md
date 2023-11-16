@@ -1,6 +1,6 @@
 # Ola, eu sou o Célio Costa 👋
 
-## Introdução Sobre Mim 🧭
+## Me apresentando 🧭
 - 👨‍👩‍👧 Sou casado com a Marcia e pai da Nicole
 - 🧙 Trabalho com desenvolvimento de sistemas desde 2006
 - 🔭 Atualmente trabalho com desenvolvimentos em:
